@@ -4,3 +4,6 @@ node_modules/
 
 # Misc
 package-lock.json
+
+#env
+.env
